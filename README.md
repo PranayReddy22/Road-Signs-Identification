@@ -1,0 +1,3 @@
+# Road-Signs-Identification
+Traffic signs in India are like a guide on the road and thus, having good knowledge about them is a must for everyone especially the person driving the vehicle. India ranks first in the number of road accident deaths across the 199 countries and accounts for almost 11% of the accident-related deaths in the World due to ignorance of these signs.
+This project basically works on all the traffic signs that a driver comes across in his daily life and the main intention of this project is to identify all those traffic signs using Neural Networks, making it easier for the driver to identify the signs in harsh conditions. 
