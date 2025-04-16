@@ -23,7 +23,7 @@ This project focuses on developing an intelligent road sign recognition system u
 2. **Model Development**
    - Convolutional Neural Network built using Keras Sequential API
    - Layers: Conv2D, MaxPooling, Dropout, Flatten, Dense
-   - Trained on image-label pairs with validation and test sets
+   - The CNN model was trained on labeled images and evaluated using separate validation and test sets to ensure reliable and accurate performance on unseen data.
 
 3. **Evaluation & Tuning**
    - Accuracy checked on unseen data
